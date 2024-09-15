@@ -11,7 +11,7 @@ print("-"*50)
 print("Ingrese el numero de respuestas correctas: ")
 
 RC = int(input())
-15
+
 print("Ingrese el numero de respuestas inconrrectas: ")
 
 RI = int(input())
